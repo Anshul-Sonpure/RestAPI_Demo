@@ -3,6 +3,7 @@ GET,POST,PUT,PATCH,DELETE method via Postman
 Hello All,
 This is a simple Postman collection where you can practice the Rest methods i.e. GET,POST,PUT,PATCH,DELETE.
 I have used json-server which is used to create demo REST JSON services within a short span of minutes.
+
 Steps:
 1. Install npm and json-server
 npm install -g json-server
