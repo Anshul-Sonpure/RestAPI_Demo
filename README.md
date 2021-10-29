@@ -1,17 +1,25 @@
-# RestAPI_Demo
-GET,POST,PUT,PATCH,DELETE method via Postman
+*** REST API Testing Collection with Assertions ***
 
 Hello All,
-This collection is for testing and for Basic Hands-on.
-There are Two GET methods.
+This is a REST API collection which can be used for testing and for Basic Hands-on.
+
+We have two endpoints.
+1. /users
+2. /department
+
+User folder has following:
 1. GET method fetches the complete data of users
 2. GET method fetches the data of single user.
 3. POST method to create a new user with id=11.
 4. PATCH method to modify the user email.
 5. PUT method to modify the complete user details.
 6. DELETE method to delete user at id=11.
+7. POST method to create a new user with id=11.
 
-7.POST method to create a new user with id=11.
+Department folder has following:
+1. GET method to fetch all department details
+2. PATCH method to modify department name for dpt id=5.
+
 
 I have used json-server which is used to create demo REST JSON services within a short span of minutes.
 
