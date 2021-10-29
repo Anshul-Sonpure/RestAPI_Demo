@@ -79,6 +79,14 @@
       "email": "rlauret9@blogger.com",
       "gender": "Polygender",
       "departmentId": 3
+    },
+    {
+      "id": 11,
+      "first_name": "Jhon",
+      "last_name": "Kenith",
+      "email": "KenithJhon@mail.com",
+      "gender": "Male",
+      "departmentId": 4
     }
   ],
   "department": [
@@ -100,7 +108,7 @@
     },
     {
       "id": 5,
-      "department": "Training"
+      "department": "IT and Support"
     }
   ]
 }
