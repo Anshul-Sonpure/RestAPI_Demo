@@ -2,10 +2,19 @@
 GET,POST,PUT,PATCH,DELETE method via Postman
 
 Hello All,
-This is a simple Postman collection where you can practice the Rest methods i.e. GET,POST,PUT,PATCH,DELETE.
+This collection is for testing and for Basic Hands-on.
+There are Two GET methods.
+1. GET method fetches the complete data of users
+2. GET method fetches the data of single user.
+3. POST method to create a new user with id=11.
+4. PATCH method to modify the user email.
+5. PUT method to modify the complete user details.
+6. DELETE method to delete user at id=11.
+7.POST method to create a new user with id=11.
+
 I have used json-server which is used to create demo REST JSON services within a short span of minutes.
 
-Steps:
+Steps to start the json-server:
 1. Install npm and json-server:
 npm install -g json-server
 
