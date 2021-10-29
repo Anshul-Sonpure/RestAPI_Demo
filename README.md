@@ -10,6 +10,7 @@ There are Two GET methods.
 4. PATCH method to modify the user email.
 5. PUT method to modify the complete user details.
 6. DELETE method to delete user at id=11.
+
 7.POST method to create a new user with id=11.
 
 I have used json-server which is used to create demo REST JSON services within a short span of minutes.
