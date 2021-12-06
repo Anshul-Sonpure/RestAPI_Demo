@@ -42,4 +42,12 @@ and under Resources our endpoint will displayed.
 
 5. Access the endpoint : http://localhost:3000/users
 
+6. Implementation of newman htmlextra report:
+    To install newman htmlextra: npm install -g newman-reporter-htmlextra
+    Export the Post Collection in json format.
+    Open command prompt and navigate to the Postman Collection.
+    Execute the command: newman run Rest_Postman.postman_collection.json -r htmlextra 
+
+
+
 Thanks
