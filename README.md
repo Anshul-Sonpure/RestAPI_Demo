@@ -1,7 +1,8 @@
 ## REST API Testing Collection with Assertions 
 
 Hello All,
-This is a REST API collection which can be used for testing and for Basic Hands-on.
+This is a REST API collection which can be used for testing and for Basic Hands-on.\
+Documentation can be viewed here: https://documenter.getpostman.com/view/18134482/UVC6hRNg
 
 We have two endpoints.
 1. /users
